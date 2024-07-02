@@ -1,1 +1,2 @@
 Adição de uma função opcional.
+Atualização 1s
